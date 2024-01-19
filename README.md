@@ -6,8 +6,10 @@ I'm David, 23 years old, currently working as a front-end developer at Sky.
 
 - React
 - JavaScript
-- Java
 - GraphQL
+- Tailwind
+- Typescript
+- Java
 - SQL
 - Git
 
